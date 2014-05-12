@@ -6,7 +6,7 @@
  *          all the element name in document order.
  * usage: tree1 filename
  * test: tree test.xml > test.json
- * author: Gonzalo Aguirre
+ * authors: Gonzalo Aguirre / JL
  */
 #include <stdio.h>
 #include <ctype.h>	/* iscntrl() */
